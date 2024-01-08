@@ -1,4 +1,4 @@
-**About**
+**About the Nukit Open Air Purifier**
 ---
 Nukit Open Air Purifiers are Open Hardware devices for improving indoor air quality. They are designed to be used with North American standard HVAC filters and PC fans. They are often an improvement over commercial air purifiers as they are quieter per m3 CADR delivered, have a lower cost of ownership per year, and are easily repairable. 
 
@@ -17,8 +17,9 @@ The responsibility to safely deploy and use Nukit Open Air Purifiers lies entire
 
 **FAQ**
 ---
-*Why would I build a DIY air purifier?
+**Why would I build a DIY air purifier?**
 Commercial stand-alone air purifiers currently follow the razor blade & inkjet printer business model. The profit is made by selling poorly built but attractively designed machines with motors that burn out within two years and cannot be serviced and expensive proprietary filter medium that only fit that specific air purifier model. 
+
 There is little money to be made, and none of it recurring, in building durable, repairable air purifiers that accept non-proprietary, standard HVAC filters, so the next best thing is to offer Open Source Hardware options.
 DIY PC Fan Air Purifiers are substantially cheaper to operate long-term per M<sup>3</sup> CADR.
 
