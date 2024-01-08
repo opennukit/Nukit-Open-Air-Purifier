@@ -6,13 +6,24 @@ Nukit Open Air Purifiers are Open Hardware devices for improving indoor air qual
 ---
 * Nukit Open Air Purifiers are designed to be made with any 3mm or 1/8th inch material that is safe to laser cut. Care should be taken not to use materials prone to off-gassing. 
 * Regular yellow wood glue is sufficient, but polyurethane glue is somewhat stronger and significantly messier. Be sure to wipe up any excess glue with a damp cloth as you work, as hardened excess may prevent the filters from sliding in easily or the fans from sitting flush with the enclosure. IF you miss a spot, it can be sanded flat or peeled off with a chisel.
-* Several light coats of sealant will ensure a service life of many years and prevent any issues with mold or mildew (although this should be checked with a flashlight when the filters are changed and the enclosure disposed of in the unlikely event of any growth). 
+* We suggest building the air purifiers on a glass tabletop to keep everything flat and square and for easy cleanup. Free-standing pieces can be held between two large food cans while the glue dries to keep them sufficiently vertical. Clothes pins can be very helpful.
+* A few light coats of sealant will ensure a service life of many years and prevent any issues with mold or mildew (although this should be checked with a flashlight when the filters are changed and the enclosure disposed of in the unlikely event of any growth). 
 * Every effort should be made to use low VOC materials and finishes and allow them to fully cure before deploying the air purifier.
 * Nukit Open Air Purifiers all come without a wiring port as different users prefer them in different locations, and they are easy to add with [Inkscape](https://inkscape.org/), [QCAD](https://qcad.org/) or any vector editing or CAD software that can handle DXF files.
 * To avoid confusion, all patterns required to build a single air purifier unit are contained in a single DXF file. You will need to rearrange and remove them to fit your lasercutter. [LightBurn](https://lightburnsoftware.com/) is the best software for this and is highly recommended. The time it saves quickly covers the cost.
-* The "split" version of the DXF file in each repository is intended for a standard 4060 CO2 lasercutter. A 600x600 laser diode cutter or a 6090 CO2 laser would likely not require any of the files to be split- but check your actual cutting area.
+* The "split" version of the DXF file in each repository is intended for a standard 4060 CO2 lasercutter. A 600x600 laser diode cutter or a 6090 CO2 laser would likely not require any of the parts to be split- but check your actual cutting area.
 
 The responsibility to safely deploy and use Nukit Open Air Purifiers lies entirely with the end user. Machinery Enchantress LLC offers no promises or warranties of any kind and is not liable for any mishaps that occur as a result of using these files.
+
+**FAQ**
+---
+*Why would I build a DIY air purifier?
+Commercial stand-alone air purifiers currently follow the razor blade & inkjet printer business model. The profit is made by selling poorly built but attractively designed machines with motors that burn out within two years and cannot be serviced and expensive proprietary filter medium that only fit that specific air purifier model. 
+There is little money to be made, and none of it recurring, in building durable, repairable air purifiers that accept non-proprietary, standard HVAC filters, so the next best thing is to offer Open Source Hardware options.
+DIY PC Fan Air Purifiers are substantially cheaper to operate long-term per M<sup>3</sup> CADR.
+
+*But aren't commercial air purifiers better?
+Generally not. The use of centrifugal fans allows for more pressure than radial fans but at the cost of far more noise. Manufacturers often deceptively list the highest CADR their product can achieve but at its average or lowest noise levels. By using arrays of repurposed radial PC fans, we can make up the pressure- at far less noise. Those fans can also easily and inexpensively be replaced as needed.
 
 **License**
 ---
