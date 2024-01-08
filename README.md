@@ -5,8 +5,8 @@ Nukit Open Air Purifiers are Open Hardware devices for improving indoor air qual
 **General Guidelines**
 ---
 * Nukit Open Air Purifiers are designed to be made with any 3mm or 1/8th inch material that is safe to laser cut. Care should be taken not to use materials prone to off-gassing. 
-* Regular yellow wood glue is sufficient, but polyurethane glue is somewhat stronger and significantly messier to work with. 
-* Several coats of sealant will ensure a service life of many years and prevent any issues with mold or mildew (although this should be checked with a flashlight when the filters are changed and the enclosure disposed of in the unlikely event of any growth). 
+* Regular yellow wood glue is sufficient, but polyurethane glue is somewhat stronger and significantly messier. Be sure to wipe up any excess glue with a damp cloth as you work, as hardened excess may prevent the filters from sliding in easily or the fans from sitting flush with the enclosure. IF you miss a spot, it can be sanded flat or peeled off with a chisel.
+* Several light coats of sealant will ensure a service life of many years and prevent any issues with mold or mildew (although this should be checked with a flashlight when the filters are changed and the enclosure disposed of in the unlikely event of any growth). 
 * Every effort should be made to use low VOC materials and finishes and allow them to fully cure before deploying the air purifier.
 * Nukit Open Air Purifiers all come without a wiring port as different users prefer them in different locations, and they are easy to add with Inkscape or any vector editing software.
 
