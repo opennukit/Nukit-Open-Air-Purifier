@@ -1,4 +1,4 @@
-**Nukit Open Air Purifier-W(all) v1.0**
+**Nukit Open Air Purifier-T(ower) v1.0**
 ---
 This is the most traditionally shaped model designed to sit on the floor or a table. Make sure to use appropriate fan guards if there will be children near it.
 
