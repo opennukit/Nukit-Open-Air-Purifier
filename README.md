@@ -11,8 +11,8 @@ Nukit Open Air Purifiers are Open Hardware devices for improving indoor air qual
 * A few light coats of sealant will ensure a service life of many years and prevent any issues with mold or mildew (although this should be checked with a flashlight when the filters are changed and the enclosure disposed of in the unlikely event of any growth). 
 * Every effort should be made to use low VOC materials and finishes and allow them to fully cure before deploying the air purifier.
 * Nukit Open Air Purifiers all come without a wiring port as different users prefer them in different locations, and they are easy to add with [Inkscape](https://inkscape.org/), [QCAD](https://qcad.org/) or any vector editing or CAD software that can handle DXF files.
-* To avoid confusion, all patterns required to build a single air purifier unit are contained in a single DXF file. You will need to rearrange and remove them to fit your lasercutter. [LightBurn](https://lightburnsoftware.com/) is the best software for this and is highly recommended. The time it saves quickly covers the cost.
-* The "split" version of the DXF file in each repository is intended for a standard 4060 CO2 lasercutter. A 600x600 laser diode cutter or a 6090 CO2 laser would likely not require any of the parts to be split- but check their actual cutting area.
+* To avoid confusion, all parts required to build a single air purifier unit are contained in a single DXF file. It is not optimized for cutting, you will need to rearrange and remove some to fit your lasercutter and available material. [LightBurn](https://lightburnsoftware.com/) is the best software for this and is highly recommended. The time it saves quickly covers the cost.
+* The "split" version of the DXF file in each repository is intended for a common 4060 CO2 lasercutter. A 600x600 laser diode cutter or a 6090 CO2 laser would likely not require any of the parts to be split- but check their actual cutting area.
 
 The responsibility to safely deploy and use Nukit Open Air Purifiers lies entirely with the end user. Machinery Enchantress LLC offers no promises or warranties of any kind and is not liable for any mishaps that occur as a result of using these files.
 
@@ -27,10 +27,12 @@ There is little money to be made, and none of it recurring, in building durable,
 DIY PC Fan Air Purifiers are substantially cheaper to operate long-term per M<sup>3</sup> CADR.
 
 **But aren't commercial air purifiers better?**
+
 Often not- depending on your use case. The use of centrifugal fans allows for more pressure than radial fans but at the cost of far more noise. Manufacturers often deceptively list the highest CADR their product can achieve but at its average or lowest noise levels. By using arrays of repurposed radial PC fans, we can make up the pressure- at far less noise. Those fans can also easily and inexpensively be replaced as needed.
 
 **Will you make a version with...**
 **I have an idea for some changes but I'm not very good with CAD...**
+
 Hang on for a few weeks; we'll have an easy-to-use web app that will let you specify what sort of layout you want and then generate the files for you.
 
 **License**
