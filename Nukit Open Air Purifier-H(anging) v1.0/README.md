@@ -10,6 +10,6 @@ To hang your Nukit Open Air Purifier, [use these](https://amzn.to/4aKu1MU) with 
 
 Suspend with lightweight chain or swaged steel cable- NOT string or rope as slight motion from the unit may eventually cause them to fail. 
 
-Note: These were designed and offered due to repeated requests but with some reluctance. This is because they may not comply with local fire codes. Be sure to ask your fire marshal before deploying them. While they (or any 12v air purifier) are an unlikely ignition source, they are effectively a suspended, difficult-to-access fuel source. If they are mounted higher than 3 meters, it may not be possible to reach them with a conventional fire extinguisher. Wall-mounted units, installed out of easy reach, would be significantly safer.
+Note: These were designed and offered due to repeated requests but with some reluctance. This is because they may not comply with local fire codes. Be sure to ask your fire marshal before deploying them. While they (or any 12v air purifier) are an unlikely ignition source, they are effectively a suspended, difficult-to-access fuel source. If they are mounted higher than 3 meters, it may not be possible to reach them with a conventional fire extinguisher. Something [like this](https://amzn.to/3S8JBdP) could be secured inside, but wall-mounted units, installed out of easy reach, would be significantly safer. 
 
 
