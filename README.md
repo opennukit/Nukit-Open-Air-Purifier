@@ -40,6 +40,10 @@ As an industrial process, thin laser cut material is ideal when you need to make
 
 Hang on for a few weeks; we'll have an easy-to-use web app that will let you specify what sort of layout you want and then generate the files for you.
 
+**I have ME/CFS, POTS, Long-COVID. Will I be able to do this?**
+
+We think so, or let us know and we'll make changes so you can. Clear a work area that you can utilize for as long as you need- even days are fine. They key is you only need to glue one panel at a time- gluing all at once is for the impatient and offers little benefit. Spread your glue, place your piece firmly in the slots, wipe up excess with a damp sponge, close your glue, and return the next day, or even the next week- whenever you have the spoons for another piece. The entire assembly process can be broken into 5-minute segments.
+
 **License**
 ---
 All Nukit Open Air Purifiers are released under GPL-3. 
