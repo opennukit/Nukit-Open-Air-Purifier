@@ -31,6 +31,7 @@ DIY PC Fan Air Purifiers are substantially cheaper to operate long-term per M<su
 Often not- depending on your use case. The use of centrifugal fans allows for more pressure than radial fans but at the cost of far more noise. Manufacturers often deceptively list the highest CADR their product can achieve but at its average or lowest noise levels. By using arrays of repurposed radial PC fans, we can make up the pressure- at far less noise. Those fans can also easily and inexpensively be replaced as needed.
 
 **Will you make a version with...**
+
 **I have an idea for some changes but I'm not very good with CAD...**
 
 Hang on for a few weeks; we'll have an easy-to-use web app that will let you specify what sort of layout you want and then generate the files for you.
