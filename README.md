@@ -32,6 +32,10 @@ DIY PC Fan Air Purifiers are usually substantially cheaper to operate long-term 
 
 Often not- depending on your use case. The use of centrifugal fans allows for more pressure than radial fans but at the cost of far more noise. Manufacturers often deceptively list the highest CADR their product can achieve but at its average or lowest noise levels. By using arrays of repurposed radial PC fans, we can make up the pressure- with far less noise. Those fans can also easily and inexpensively be replaced as needed.
 
+**Why laser cut material?**
+
+As an industrial process, thin laser cut material is ideal when you need to make 5-500 of something (at which point you look at sheet metal or injection molded plastic). Hand-operated power tools are well suited to making one or two boxes like this but the time and labor required is substantial. Since most locations will require four or more air purifiers for full coverage, laser cutting is a very cost-effective option. The cost drops substantially as quantities go up, so group buys are an excellent idea.
+
 **Will you make a version with...**
 
 **I have an idea for some changes but I'm not very good with CAD...**
