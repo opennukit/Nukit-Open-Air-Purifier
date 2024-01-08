@@ -4,20 +4,22 @@ Nukit Open Air Purifiers are Open Hardware devices for improving indoor air qual
 
 **General Guidelines**
 ---
-* Nukit Open Air Purifiers are designed to be made with any 3mm or 1/8th inch material that is safe to laser cut. Care should be taken not to use materials prone to off-gassing. 
-* Regular yellow wood glue is sufficient, but polyurethane glue is somewhat stronger and significantly messier. Be sure to wipe up any excess glue with a damp cloth as you work, as hardened excess may prevent the filters from sliding in easily or the fans from sitting flush with the enclosure. IF you miss a spot, it can be sanded flat or peeled off with a chisel.
+* Nukit Open Air Purifiers are designed to be made with any 3mm or 1/8th inch material that is safe to laser cut. Care should be taken not to use materials prone to off-gassing.
+* This is only an enclosure. In order to build a complete, functioning air purifier, you will need [140mm fans](https://amzn.to/47qAqKj), a [5.5mm barrel jack to 4-Pin PWM converter](https://amzn.to/4aQ3cXu), [fan grills](https://amzn.to/4aKtQRJ), and a [12v power supply](https://amzn.to/3TRkqxB) (suggested items linked). 
+* Regular yellow wood glue is sufficient, but polyurethane glue is somewhat stronger and significantly messier. Be sure to wipe up any excess glue with a damp cloth as you work, as hardened excess may prevent the filters from sliding in easily or the fans from sitting flush with the enclosure. If you miss a spot, it can be sanded flat or peeled off with a chisel.
 * We suggest building the air purifiers on a glass tabletop to keep everything flat and square and for easy cleanup. Free-standing pieces can be held between two large food cans while the glue dries to keep them sufficiently vertical. Clothes pins can be very helpful.
 * A few light coats of sealant will ensure a service life of many years and prevent any issues with mold or mildew (although this should be checked with a flashlight when the filters are changed and the enclosure disposed of in the unlikely event of any growth). 
 * Every effort should be made to use low VOC materials and finishes and allow them to fully cure before deploying the air purifier.
 * Nukit Open Air Purifiers all come without a wiring port as different users prefer them in different locations, and they are easy to add with [Inkscape](https://inkscape.org/), [QCAD](https://qcad.org/) or any vector editing or CAD software that can handle DXF files.
 * To avoid confusion, all patterns required to build a single air purifier unit are contained in a single DXF file. You will need to rearrange and remove them to fit your lasercutter. [LightBurn](https://lightburnsoftware.com/) is the best software for this and is highly recommended. The time it saves quickly covers the cost.
-* The "split" version of the DXF file in each repository is intended for a standard 4060 CO2 lasercutter. A 600x600 laser diode cutter or a 6090 CO2 laser would likely not require any of the parts to be split- but check your actual cutting area.
+* The "split" version of the DXF file in each repository is intended for a standard 4060 CO2 lasercutter. A 600x600 laser diode cutter or a 6090 CO2 laser would likely not require any of the parts to be split- but check their actual cutting area.
 
 The responsibility to safely deploy and use Nukit Open Air Purifiers lies entirely with the end user. Machinery Enchantress LLC offers no promises or warranties of any kind and is not liable for any mishaps that occur as a result of using these files.
 
 **FAQ**
 ---
 **Why would I build a DIY air purifier?**
+
 Commercial stand-alone air purifiers currently follow the razor blade & inkjet printer business model. The profit is made by selling poorly built but attractively designed machines with motors that burn out within two years and cannot be serviced and expensive proprietary filter medium that only fit that specific air purifier model. 
 
 There is little money to be made, and none of it recurring, in building durable, repairable air purifiers that accept non-proprietary, standard HVAC filters, so the next best thing is to offer Open Source Hardware options.
