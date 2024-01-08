@@ -26,11 +26,11 @@ Commercial stand-alone air purifiers follow the razor blade & inkjet printer bus
 
 There is little money to be made, and none of it recurring, in building durable, repairable air purifiers that accept non-proprietary, standard HVAC filters, so the next best thing is to offer Open Source Hardware options.
 
-DIY PC Fan Air Purifiers are substantially cheaper to operate long-term per M<sup>3</sup> CADR.
+DIY PC Fan Air Purifiers are usually substantially cheaper to operate long-term per M<sup>3</sup> CADR.
 
 **But aren't commercial air purifiers better?**
 
-Often not- depending on your use case. The use of centrifugal fans allows for more pressure than radial fans but at the cost of far more noise. Manufacturers often deceptively list the highest CADR their product can achieve but at its average or lowest noise levels. By using arrays of repurposed radial PC fans, we can make up the pressure- at far less noise. Those fans can also easily and inexpensively be replaced as needed.
+Often not- depending on your use case. The use of centrifugal fans allows for more pressure than radial fans but at the cost of far more noise. Manufacturers often deceptively list the highest CADR their product can achieve but at its average or lowest noise levels. By using arrays of repurposed radial PC fans, we can make up the pressure- with far less noise. Those fans can also easily and inexpensively be replaced as needed.
 
 **Will you make a version with...**
 
