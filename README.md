@@ -22,7 +22,7 @@ The responsibility to safely deploy and use Nukit Open Air Purifiers lies entire
 ---
 **Why would I build a DIY air purifier?**
 
-Commercial stand-alone air purifiers follow the razor blade & inkjet printer business model. The profit is made by selling poorly built but attractively designed machines with motors that burn out within two years and cannot be serviced and expensive proprietary filter medium that only fit that specific air purifier model. 
+Commercial stand-alone air purifiers follow the razor blade & inkjet printer business model. The profit is made by selling poorly built but attractively designed machines with motors that burn out within two years, cannot be serviced and require expensive proprietary filters that only fit that specific air purifier model. 
 
 There is little money to be made, and none of it recurring, in building durable, repairable air purifiers that accept non-proprietary, standard HVAC filters, so the next best thing is to offer Open Source Hardware options.
 
