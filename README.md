@@ -44,6 +44,10 @@ Hang on for a few weeks; we'll have an easy-to-use web app that will let you spe
 
 We think so, or let us know and we'll make changes so you can. Clear a work area that you can utilize for as long as you need- even days are fine. They key is you only need to glue one panel at a time- gluing all at once is for the impatient and offers little benefit. Spread your glue, place your piece firmly in the slots, wipe up excess with a damp sponge, close your glue, and return the next day, or even the next week- whenever you have the spoons for another piece. The entire assembly process can be broken into 5-minute segments.
 
+**Did you invent this?**
+
+Absolutely not, a ton of people did a massive amount of work on PC Fan Filter Boxes to get to this point, and laser-cut boxes have been around as long as laser cutters. We just posted a few handy Open Source designs people can easily have made. For some absolutely beautiful prior art (and decorative inspiration), check out [@Krytes42]9https://twitter.com/Krytes42/status/1707808953911095305) on Twitter. 
+
 **License**
 ---
 All Nukit Open Air Purifiers are released under GPL-3. 
